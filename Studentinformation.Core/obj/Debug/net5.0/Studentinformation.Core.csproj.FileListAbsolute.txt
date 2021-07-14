@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\bin\Debug\net5.0\Studentinformation.Core.deps.json
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\bin\Debug\net5.0\Studentinformation.Core.dll
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\bin\Debug\net5.0\ref\Studentinformation.Core.dll
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\bin\Debug\net5.0\Studentinformation.Core.pdb
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.AssemblyInfo.cs
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.dll
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\ref\Studentinformation.Core.dll
+C:\Users\muham\source\repos\Studentinformation.WebApi\Studentinformation.Core\obj\Debug\net5.0\Studentinformation.Core.pdb
